@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "2468642422",
+    "firebase_url": "https://team-karbonisasi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "team-karbonisasi",
+    "storage_bucket": "team-karbonisasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2468642422:android:27cd1155763ae40a63a957",
+        "android_client_info": {
+          "package_name": "com.example.bricket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQuhXAaeDANHcY_vHen6LZRZd2I8-k9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2468642422-7ieo9a0d3c9b32shah3641j1d1ipq99c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myBricket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2468642422:android:f6b77109bd10bd9c63a957",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQuhXAaeDANHcY_vHen6LZRZd2I8-k9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2468642422-7ieo9a0d3c9b32shah3641j1d1ipq99c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myBricket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2468642422:android:bff8eae72c24207563a957",
+        "android_client_info": {
+          "package_name": "com.example.my_bricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQuhXAaeDANHcY_vHen6LZRZd2I8-k9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2468642422-qareqllrmvvm3vd48sag82l7679f2ao8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2468642422-7ieo9a0d3c9b32shah3641j1d1ipq99c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myBricket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
